@@ -1,89 +1,79 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Nawres Al Juaifari's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Nawres Al Juaifari
+Student at BYUI.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="nawres.aljuaifari@gmail.com">nawres.aljuaifari@gmail.com</a>
+| <a href="https://www.linkedin.com/in/nawres-al-juaifari-195857267/">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2021-2024`
+__Biomedical Science__, Rexburg, Id
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- 3.69 GPA
 
 
-## Related Experience
+## Professional Experience
 
-### Internships
+### Certification of completing the phlebotomy course and CPR certification 
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Received training in drawing blood from patients for medical testing or donation purposes
+- Passed the national exam and received the national phlebotomy certification
+- Cardiopulmonary Resuscitation (CPR) certified
+- Medical terminology course: I learned the language and terminology used in healthcare professions
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+### Tiny Earth Data Research 
 
-### Data Science Lead
+- Tested soil samples using different types of master plates to culture bacteria.
+- Learned to differentiate bacteria morphology, shape, and color.
+- Used pathogens for antibiotic testing. 
+- Proof plating
+- DNA sequencing
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Microbiology lab	
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Used Microscopy to identify microorganisms. 
+- Preparation of antibiotic
+- Plate counting and serial dilation.
+- Control of microbes
 
 
-## Service and Work History
+## Qualifications
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Python
+- R
+- SQL (Structured Query Language)
+- Excel
+- Fluent in Arabic 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Personal Experience 
+### Full-Time Online Grocery Pickup ׀ Walmart Store ׀ Dallas, Texas
+- Delivered exceptional customer service by efficiently and accurately fulfilling timely grocery orders.
+- Thrived in dynamic and fast-paced environments, exhibiting multitasking abilities to maintain productivity and meet necessary deadlines.
+- Demonstrated resilience and adaptability by adjusting to new changes in an ever-changing work setting. 
+
+
+###  Full-Time Cashier׀ Customer Assistant ׀ HomeGoods furniture store ׀ Dallas, Texas 
+
+- Earned recognition as the top-performing salesperson of 2019, receiving the Best Seller Award for the store's credit card membership program.
+- Demonstrated exceptional customer service skills, resulting in positive feedback from highly satisfied customers.
+- Provided a welcoming experience for customers, ensuring all their needs were met throughout their shopping journey.
+
+
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2023 -->
 
 
